@@ -29,6 +29,10 @@ https://youtu.be/qEZhaU0NNYg
 # Citation
 If you compare with, build on, or use aspects of the Vision Corrector work, please cite the following:
 
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
 @misc{marinkovic_head_2026,
 	title = {Head Coil-Mounted Vision Correction Device for Magnetic Resonance Imaging},
 	url = {http://arxiv.org/abs/2604.04966},
@@ -41,3 +45,5 @@ If you compare with, build on, or use aspects of the Vision Corrector work, plea
 	eprint = {2604.04966 [physics]},
 	keywords = {Physics - Instrumentation and Detectors, Physics - Medical Physics},
 }
+```	
+</details>
