@@ -28,3 +28,16 @@ https://youtu.be/qEZhaU0NNYg
 
 # Citation
 If you compare with, build on, or use aspects of the Vision Corrector work, please cite the following:
+
+@misc{marinkovic_head_2026,
+	title = {Head Coil-Mounted Vision Correction Device for Magnetic Resonance Imaging},
+	url = {http://arxiv.org/abs/2604.04966},
+	doi = {10.48550/arXiv.2604.04966},
+	number = {{arXiv}:2604.04966},
+	publisher = {{arXiv}},
+	author = {Marinkovic, Aleksandar and Tyszka, Julian Michael},
+	date = {2026-04-04},
+	eprinttype = {arxiv},
+	eprint = {2604.04966 [physics]},
+	keywords = {Physics - Instrumentation and Detectors, Physics - Medical Physics},
+}
